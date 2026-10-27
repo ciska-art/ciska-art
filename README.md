@@ -7,7 +7,7 @@
 
 Learning to build websites, one line of code at a time.
 
-<img src="assets/banner.png" width="100%" alt="Portfolio banner">
+<img src="banner.jpg" width="100%" alt="Portfolio banner">
 
 [Portfolio](https://ciska-art.github.io/portfolio-webdevku/) ·
 [GitHub](https://github.com/ciska-art)
