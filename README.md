@@ -3,7 +3,7 @@
 
 # ✦ HELLO, I'M FRANCISKA ✦
 
-### Student · Aspiring Web Developer
+### Pelajar · Aspiring Web Developer
 
 Learning to build websites, one line of code at a time.
 
